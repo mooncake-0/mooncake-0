@@ -36,9 +36,10 @@
 </div>
 
 <br>
+<br>
 <div align=center><h1>💫 CHANNEL </h1></div>
   
 <div align=center>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="200" height="100>
    [문케이크 블로그](https://mooncake1.tistory.com/)
 </div>
