@@ -1,6 +1,8 @@
-<h1>👊🔥 WORKING ON </h1>
+<h1 align= center> 👊🔥 WORKING ON </h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kws8643)](https://solved.ac/kws8643/)
+<div align=center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kws8643)](https://solved.ac/kws8643/)
+</div>
 
 <br>
 <br>
