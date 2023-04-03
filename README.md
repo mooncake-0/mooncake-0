@@ -1,9 +1,8 @@
 <h1 align= center> 👊🔥 WORKING ON </h1>
-
+<br>
    
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kws8643)](https://solved.ac/kws8643/)
 
-<br>
 <br>
 
 <div align=center><h1>📚 WORKS WITH </h1></div>
@@ -34,4 +33,12 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+</div>
+
+<br>
+<div align=center><h1>💫 CHANNEL </h1></div>
+  
+<div align=center>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png">
+   [문케이크 블로그](https://mooncake1.tistory.com/)
 </div>
